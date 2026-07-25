@@ -1,0 +1,197 @@
+[
+  {
+    "image": "2931254547_e97c6d0d63.jpg",
+    "blip_caption": "a crowd of people",
+    "human_captions": [
+      "A boy in a red hat admires a barely dressed woman .",
+      "A man in a red costume and woman in a bikini are passing a crowd of people .",
+      "a smiling topless woman holding a shell with many people surrounding her",
+      "A topless woman is holding a conch shell while a crowd looks at her .",
+      "Many people watching a performance"
+    ],
+    "bleu_score": 0.7788007830714049,
+    "quality_label": "good"
+  },
+  {
+    "image": "226531363_33ac01d931.jpg",
+    "blip_caption": "a dog running in the snow on a sunny day",
+    "human_captions": [
+      "A dog runs across the snowy field .",
+      "A dog runs in the snow , a fence in the background .",
+      "A tan dog runs through the snow .",
+      "a white dog running in the snow",
+      "A yellow dog runs on white snow on a sunny day ."
+    ],
+    "bleu_score": 0.7652058832556895,
+    "quality_label": "good"
+  },
+  {
+    "image": "3678098428_40c1b74cc2.jpg",
+    "blip_caption": "a man wearing a black tank top",
+    "human_captions": [
+      "A bearded man at a fair wearing a black tank top and a plaid hat .",
+      "A guy with a black tank top .",
+      "A man in a black tank top wearing a red plaid hat",
+      "A man wearing a black tank top and red plaid hat is smiling as a man behind him is playing with a colorful object .",
+      "A man with face peircings and a red fadora hat smiles at a fair ."
+    ],
+    "bleu_score": 0.7629494139369416,
+    "quality_label": "good"
+  },
+  {
+    "image": "252504549_135b0db5a3.jpg",
+    "blip_caption": "a small dog playing with a ball on the beach",
+    "human_captions": [
+      "a dog having fun with a tennis ball",
+      "A dog on the beach has a ball in its mouth .",
+      "A small dog is playing with a ball on the sand .",
+      "A white dog is playing with a ball on the beach .",
+      "Small dog catching a ball in its mouth on a beach ."
+    ],
+    "bleu_score": 0.7259795291154771,
+    "quality_label": "good"
+  },
+  {
+    "image": "2979914158_5906470b8f.jpg",
+    "blip_caption": "a young girl is swinging on a swing",
+    "human_captions": [
+      "A girl in a bathing suit rides a swing .",
+      "a young girl wearing a black and red swimsuit swinging on a swing",
+      "A young girl with brown hair is swinging on a swing in a swimming suit .",
+      "child on a swing in motion",
+      "The little girl wearing a black swimsuit is playing on a swing ."
+    ],
+    "bleu_score": 0.691441569283882,
+    "quality_label": "good"
+  },
+  {
+    "image": "3482974845_db4f16befa.jpg",
+    "blip_caption": "two dogs running on the beach",
+    "human_captions": [
+      "A black dog with his pink tongue sticking out running on the beach with a white dog wearing a red collar .",
+      "A white dog is following a black dog along the beach .",
+      "Two dogs run across the barren ground .",
+      "Two dogs running on the beach .",
+      "Two terrier dogs frolic on the beach ."
+    ],
+    "bleu_score": 0.6431870218238024,
+    "quality_label": "good"
+  },
+  {
+    "image": "2629445284_83390e83af.jpg",
+    "blip_caption": "a dog jumping over an obstacle in a field",
+    "human_captions": [
+      "A black and white dog jumps over a hurdle .",
+      "A black dog jumps over hurdles .",
+      "A black , white and brown tri-colored mid-sized dog jumps over a red and white jump in a field with tents and cars nearby .",
+      "A dog is jumping over a barrier at a agility competition .",
+      "A dog jumping over an obstacle course fence ."
+    ],
+    "bleu_score": 0.6147881529512643,
+    "quality_label": "good"
+  },
+  {
+    "image": "2443512473_6f5a22eb42.jpg",
+    "blip_caption": "a black and white dog",
+    "human_captions": [
+      "A black and white agility dog weaving between poles .",
+      "A black and white dog running between poles .",
+      "A black and white dog weaves between metal bars .",
+      "A competition dog running between poles",
+      "A dog weaving through an obstacle course ."
+    ],
+    "bleu_score": 0.5475182535069453,
+    "quality_label": "good"
+  },
+  {
+    "image": "1187435567_18173c148b.jpg",
+    "blip_caption": "the dog is black and brown",
+    "human_captions": [
+      "A small brown and black dog",
+      "A small brown and black dog playing with a toy",
+      "A small dog plays with a toy on top of a white blanket .",
+      "A small , shaggy dog playing with a toy on a blanket .",
+      "Terrier dog playing with toy on blanket"
+    ],
+    "bleu_score": 0.05316510269988787,
+    "quality_label": "poor"
+  },
+  {
+    "image": "3701544312_b2e4e9813d.jpg",
+    "blip_caption": "the woman is holding a stick",
+    "human_captions": [
+      "A group of people pulling on a rope",
+      "three girls tug a rope .",
+      "Three people are mountain climbing and the lady in front has long hair .",
+      "Three people are pulling a rope on a hillside .",
+      "Three women on one side of a tug-of-war"
+    ],
+    "bleu_score": 0.044706344276931285,
+    "quality_label": "poor"
+  },
+  {
+    "image": "3536561454_e75993d903.jpg",
+    "blip_caption": "a man riding a skateboard down a street",
+    "human_captions": [
+      "A man skateboards around an orange cone .",
+      "A man wearing a black helmet and black pants and shirt rides his skateboard in a park .",
+      "The skateboarder rides near a small cone .",
+      "Two men racing each other on skateboards .",
+      "Two skateboarders , one wearing a black t-shirt and the other wearing a white t-shirt , race each other ."
+    ],
+    "bleu_score": 0.040445966468773985,
+    "quality_label": "poor"
+  },
+  {
+    "image": "3726168984_1fa2c8965b.jpg",
+    "blip_caption": "two dogs playing in the grass",
+    "human_captions": [
+      "A black dog is colliding with a golden dog that has something in its mouth .",
+      "A black dog trying to mate with a brown dog",
+      "A brown dog and a yellow dog play fight over a plastic bottle .",
+      "A brown dog is climbing over a golden dog that is carrying bottle in its mouth .",
+      "Two dogs play with a bottle ."
+    ],
+    "bleu_score": 0.03784310341709043,
+    "quality_label": "poor"
+  },
+  {
+    "image": "3627076769_3b71e73018.jpg",
+    "blip_caption": "two women sitting on the ground",
+    "human_captions": [
+      "A blond and a red haired woman sitting and having a drink together .",
+      "Two women are sitting down drinking a bottled beverage .",
+      "Two women drink from green bottles .",
+      "Two women drinking from green bottles as they sit .",
+      "Two women drink whilst sitting below a platform ."
+    ],
+    "bleu_score": 0.03784310341709043,
+    "quality_label": "poor"
+  },
+  {
+    "image": "687513087_413d4a3a3b.jpg",
+    "blip_caption": "two dogs on the floor",
+    "human_captions": [
+      "Two black dogs are bearing their teeth beside a white couch .",
+      "Two black dogs are fighting in front of a tan sofa .",
+      "Two black dogs fight with each other , with their teeth bared , in a plush carpeted room .",
+      "Two black dogs play or fight together .",
+      "Two large black dogs are snarling at each other ."
+    ],
+    "bleu_score": 0.0250530827696685,
+    "quality_label": "poor"
+  },
+  {
+    "image": "3656151153_b4ed5d94c4.jpg",
+    "blip_caption": "the sky is clear",
+    "human_captions": [
+      "A little girl standing on a sandy hill on a beach .",
+      "A small child turns to look as she walks down a sandy path .",
+      "A young blonde girl stands on a beach .",
+      "A young girl is walking down a sandy path by a large body of water .",
+      "A young girl stands on the sand by a shore ."
+    ],
+    "bleu_score": 0.02079484472761028,
+    "quality_label": "poor"
+  }
+]
