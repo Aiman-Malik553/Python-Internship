@@ -31,6 +31,8 @@ jobs:
         run: flake8 Week4/src Week4/tests --max-line-length=120 || true
 
       - name: Run pytest
+        env:
+          PYTHONPATH: ${{ github.workspace }}/Week4/src
         run: |
           cd Week4
           python -m pytest tests/test_pipeline.py -v
