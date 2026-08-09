@@ -1,0 +1,17 @@
+﻿{
+  "model_name": "Salesforce/blip-image-captioning-base",
+  "model_type": "BLIP - Image Captioning",
+  "source": "HuggingFace Hub",
+  "final_baseline_config": {
+    "num_beams": 5,
+    "max_new_tokens": 30
+  },
+  "week2_day2_baseline_metrics": {
+    "BLEU": 0.1919,
+    "ROUGE_1": 0.5556,
+    "ROUGE_2": 0.3198,
+    "ROUGE_L": 0.5337
+  },
+  "selected_date": "Week 2 Day 4",
+  "version": "v1.0"
+}
