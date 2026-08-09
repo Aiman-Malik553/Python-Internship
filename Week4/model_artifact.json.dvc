@@ -1,0 +1,5 @@
+outs:
+- md5: be685c24bfa595a23d0066fa29559e73
+  size: 401
+  hash: md5
+  path: model_artifact.json
