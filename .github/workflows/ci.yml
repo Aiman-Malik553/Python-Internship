@@ -9,7 +9,6 @@ on:
 jobs:
   lint-and-test:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -36,3 +35,16 @@ jobs:
         run: |
           cd Week4
           python -m pytest tests/test_pipeline.py -v
+
+  docker-build:
+    needs: lint-and-test
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Build Docker image
+        run: |
+          cd Week4
+          docker build -t blip-captioning-app .
